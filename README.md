@@ -39,6 +39,7 @@
 3. Learn more: [ABRicate](https://github.com/tseemann/abricate)
 
 <br>
+
 ## Long-read data
 1. Assemble fastq files (Canu):
 	* ```module load canu``` or ```module load canu/gcc/64/1.5```
