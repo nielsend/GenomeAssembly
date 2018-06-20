@@ -2,6 +2,7 @@
 
 
 <br>
+
 ## Assemble Illumina data *de novo*
 1. **Trim reads using trimmomatic**
 	* Notes: do NOT use a SLURM script on SciNet
