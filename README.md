@@ -29,6 +29,7 @@
 	* Learn more: [Quast](http://quast.sourceforge.net/quast)
 
 <br>
+
 ## Identify Plasmid Replicons
 1. One useful program for identification of antibiotic, virulence, and plasmid replicons is ABRicate.
 
@@ -53,6 +54,7 @@
 * Learn more: [Canu](https://canu.readthedocs.io/en/latest/), [Next-Gen Sequence Analysis Tutorial](http://angus.readthedocs.io/en/2017/)
 
 <br>
+
 ## Circularization
 * Long-read assemblies and corrected long reads imported into Geneious
 * Reads mapped to assemblies 
